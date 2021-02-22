@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nandaha29/React_List.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/nandaha29/React_List.git/static/js/main.303f84f6.chunk.js",
+    "main.js.map": "/nandaha29/React_List.git/static/js/main.303f84f6.chunk.js.map",
+    "runtime-main.js": "/nandaha29/React_List.git/static/js/runtime-main.3387bad2.js",
+    "runtime-main.js.map": "/nandaha29/React_List.git/static/js/runtime-main.3387bad2.js.map",
+    "static/css/2.150d169a.chunk.css": "/nandaha29/React_List.git/static/css/2.150d169a.chunk.css",
+    "static/js/2.d1a8f7fe.chunk.js": "/nandaha29/React_List.git/static/js/2.d1a8f7fe.chunk.js",
+    "static/js/2.d1a8f7fe.chunk.js.map": "/nandaha29/React_List.git/static/js/2.d1a8f7fe.chunk.js.map",
+    "static/js/3.03f53282.chunk.js": "/nandaha29/React_List.git/static/js/3.03f53282.chunk.js",
+    "static/js/3.03f53282.chunk.js.map": "/nandaha29/React_List.git/static/js/3.03f53282.chunk.js.map",
+    "index.html": "/nandaha29/React_List.git/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/nandaha29/React_List.git/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/nandaha29/React_List.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d1a8f7fe.chunk.js.LICENSE.txt": "/nandaha29/React_List.git/static/js/2.d1a8f7fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3387bad2.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.d1a8f7fe.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.303f84f6.chunk.js"
+  ]
+}
